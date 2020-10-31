@@ -1,0 +1,1040 @@
+{
+  "vocabulary":[
+    {
+      "english": "competitor",
+      "type": "(n)",
+      "vietnamese": "đối thủ cạnh tranh"
+    },
+    {
+      "english": "corporation",
+      "type": "(n)",
+      "vietnamese": "Tập đoàn"
+    },
+    {
+      "english": "employ",
+      "type": "(n)",
+      "vietnamese": "Thuê, tuyển dụng"
+    },
+    {
+      "english": "employee",
+      "type": "(n)",
+      "vietnamese": "Người làm công"
+    },
+    {
+      "english": "establish",
+      "type": "(n)",
+      "vietnamese": "Thành lập"
+    },
+    {
+      "english": "graphic processing units",
+      "type": "(n)",
+      "vietnamese": "Bộ sử lý đồ họa"
+    },
+    {
+      "english": "headquarters",
+      "type": "(n)",
+      "vietnamese": "Đặt trụ sở"
+    },
+    {
+      "english": "head office",
+      "type": "(n)",
+      "vietnamese": "Trụ sở chính"
+    },
+    {
+      "english": "mission",
+      "type": "(n)",
+      "vietnamese": "nhiệm vụ, sứ mệnh"
+    },
+    {
+      "english": "multinational",
+      "type": "(adj)",
+      "vietnamese": "Đa quốc gia"
+    },
+    {
+      "english": "operate",
+      "type": "(v)",
+      "vietnamese": "Hoạt động"
+    },
+    {
+      "english": "revenue",
+      "type": "(n)",
+      "vietnamese": "Doanh thu"
+    },
+    {
+      "english": "segment",
+      "type": "(n)",
+      "vietnamese": "Phân khúc (thị trường)"
+    },
+    {
+      "english": "semiconductor",
+      "type": "(n)",
+      "vietnamese": "Chất bán dẫn"
+    },
+    {
+      "english": "specialize",
+      "type": "(v)",
+      "vietnamese": "Chuyên (về 1 lĩnh vực)"
+    },
+    {
+      "english": "subsidiary",
+      "type": "(n)",
+      "vietnamese": "Công ty con"
+    },
+    {
+      "english": "direction",
+      "type": "(n)",
+      "vietnamese": "Phuơng hướng"
+    },
+    {
+      "english": "culture",
+      "type": "(n)",
+      "vietnamese": "Văn hóa"
+    },
+    {
+      "english": "Encourage",
+      "type": "(v)",
+      "vietnamese": "Khuyến khích"
+    },
+    {
+      "english": "Focus",
+      "type": "(v)",
+      "vietnamese": "Tiêu điểm"
+    },
+    {
+      "english": "respect",
+      "type": "(n, v)",
+      "vietnamese": "Tôn trọng"
+    },
+    {
+      "english": "reward",
+      "type": "(v)",
+      "vietnamese": "Phần thưởng"
+    },
+    {
+      "english": "mission",
+      "type": "(n)",
+      "vietnamese": "Nhiệm vụ"
+    },
+    {
+      "english": "Home applicance",
+      "type": "(n)",
+      "vietnamese": "Dụng cụ gia đình"
+    },
+    {
+      "english": "graphics processing unit",
+      "type": "(n)",
+      "vietnamese": "Đơn vị xử lí đồ họa"
+    },
+    {
+      "english": "goal",
+      "type": "(n)",
+      "vietnamese": "Mục tiêu"
+    },
+    {
+      "english": "found",
+      "type": "(v)",
+      "vietnamese": "Thành lập"
+    },
+    {
+      "english": "consumer electronics",
+      "type": "(n)",
+      "vietnamese": "Điện tử dân dụng"
+    },
+    {
+      "english": "consider( as)",
+      "type": "(v)",
+      "vietnamese": "xem xét"
+    },
+    {
+      "english": "innovation",
+      "type": "(n)",
+      "vietnamese": "Sự đổi mới"
+    },
+    {
+      "english": "integrity",
+      "type": "(n)",
+      "vietnamese": "chính trực"
+    },
+    {
+      "english": "revenue",
+      "type": "(n)",
+      "vietnamese": "Doanh thu"
+    },
+    {
+      "english": "January",
+      "type": "(n)",
+      "vietnamese": "Tháng 1"
+    },
+    {
+      "english": "February",
+      "type": "(n)",
+      "vietnamese": "Tháng 2"
+    },
+    {
+      "english": "March",
+      "type": "(n)",
+      "vietnamese": "Tháng 3"
+    },
+    {
+      "english": "April",
+      "type": "(n)",
+      "vietnamese": "Tháng 4"
+    },
+    {
+      "english": "May",
+      "type": "(n)",
+      "vietnamese": "Tháng 5"
+    },
+    {
+      "english": "June",
+      "type": "(n)",
+      "vietnamese": "Tháng 6"
+    },
+    {
+      "english": "July",
+      "type": "(n)",
+      "vietnamese": "Tháng 7"
+    },
+    {
+      "english": "August",
+      "type": "(n)",
+      "vietnamese": "Tháng 8"
+    },
+    {
+      "english": "September",
+      "type": "(n)",
+      "vietnamese": "Tháng 9"
+    },
+    {
+      "english": "October",
+      "type": "(n)",
+      "vietnamese": "Tháng 10"
+    },
+    {
+      "english": "November",
+      "type": "(n)",
+      "vietnamese": "Tháng 11"
+    },
+    {
+      "english": "December",
+      "type": "(n)",
+      "vietnamese": "Tháng 12"
+    },
+    {
+      "english": "Monday",
+      "type": "(n)",
+      "vietnamese": "Thứ 2"
+    },
+    {
+      "english": "Tuesday",
+      "type": "(n)",
+      "vietnamese": "Thứ 3"
+    },
+    {
+      "english": "Wednesday",
+      "type": "(n)",
+      "vietnamese": "Thứ 4"
+    },
+    {
+      "english": "Thursday",
+      "type": "(n)",
+      "vietnamese": "Thứ 5"
+    },
+    {
+      "english": "Friday",
+      "type": "(n)",
+      "vietnamese": "Thứ 6"
+    },
+    {
+      "english": "Saturday",
+      "type": "(n)",
+      "vietnamese": "Thứ 7"
+    },
+    {
+      "english": "Sunday",
+      "type": "(n)",
+      "vietnamese": "Chủ nhật"
+    },
+    {
+      "english": "research",
+      "type": "",
+      "vietnamese": "sự nghiên cứu"
+    },
+    {
+      "english": "customer",
+      "type": "",
+      "vietnamese": "Khách hàng"
+    },
+    {
+      "english": "discussion",
+      "type": "",
+      "vietnamese": "cuộc thảo luận"
+    },
+    {
+      "english": "situation",
+      "type": "",
+      "vietnamese": "tình huống"
+    },
+    {
+      "english": "hopeless",
+      "type": "",
+      "vietnamese": "vô vọng"
+    },
+    {
+      "english": "unemployment",
+      "type": "",
+      "vietnamese": "sự thất nghiệp"
+    },
+    {
+      "english": "trade",
+      "type": "",
+      "vietnamese": "hoạt động buôn bán"
+    },
+    {
+      "english": "abroad",
+      "type": "",
+      "vietnamese": "ở nước ngoài"
+    },
+    {
+      "english": "recover",
+      "type": "",
+      "vietnamese": "phục hồi"
+    },
+    {
+      "english": "average",
+      "type": "",
+      "vietnamese": "trung bình"
+    },
+    {
+      "english": "professional",
+      "type": "",
+      "vietnamese": "chuyên nghiệp"
+    },
+    {
+      "english": "advise",
+      "type": "",
+      "vietnamese": "lời khuyên"
+    },
+    {
+      "english": "percent",
+      "type": "",
+      "vietnamese": "phần trăm"
+    },
+    {
+      "english": "currency",
+      "type": "",
+      "vietnamese": "tiền tệ"
+    },
+    {
+      "english": "transfer",
+      "type": "",
+      "vietnamese": "chuyển đổi"
+    },
+    {
+      "english": "advanced",
+      "type": "",
+      "vietnamese": "nâng cao"
+    },
+    {
+      "english": "degree",
+      "type": "",
+      "vietnamese": "bằng (đại học)"
+    },
+    {
+      "english": "lecture",
+      "type": "",
+      "vietnamese": "bài giảng"
+    },
+    {
+      "english": "further",
+      "type": "",
+      "vietnamese": "thêm"
+    },
+    {
+      "english": "qualification",
+      "type": "",
+      "vietnamese": "bằng cấp"
+    },
+    {
+      "english": "presentation",
+      "type": "",
+      "vietnamese": "bài thuyết trình"
+    },
+    {
+      "english": "instructor",
+      "type": "",
+      "vietnamese": "người hướng dẫn"
+    },
+    {
+      "english": "major",
+      "type": "",
+      "vietnamese": "chuyên ngành"
+    },
+    {
+      "english": "socially",
+      "type": "",
+      "vietnamese": "mang tính xã hội"
+    },
+    {
+      "english": "attention",
+      "type": "",
+      "vietnamese": "sự chú ý"
+    },
+    {
+      "english": "viral",
+      "type": "",
+      "vietnamese": "lan truyền nhanh"
+    },
+    {
+      "english": "advertisement",
+      "type": "",
+      "vietnamese": "quảng cáo"
+    },
+    {
+      "english": "reliablie",
+      "type": "",
+      "vietnamese": "đáng tin"
+    },
+    {
+      "english": "profitable",
+      "type": "",
+      "vietnamese": "đem lại lợi nhuận"
+    },
+    {
+      "english": "conplain",
+      "type": "",
+      "vietnamese": "phàn nàn"
+    },
+    {
+      "english": "unnecessary",
+      "type": "",
+      "vietnamese": "không cần thiết"
+    },
+    {
+      "english": "opinion",
+      "type": "",
+      "vietnamese": "ý kiến"
+    },
+    {
+      "english": "access",
+      "type": "",
+      "vietnamese": "quyền truy cập"
+    },
+    {
+      "english": "swipe",
+      "type": "",
+      "vietnamese": "lướt màn hình"
+    },
+    {
+      "english": "lightning",
+      "type": "",
+      "vietnamese": "tia chớp"
+    },
+    {
+      "english": "advanced",
+      "type": "",
+      "vietnamese": "tân tiến"
+    },
+    {
+      "english": "extremely",
+      "type": "",
+      "vietnamese": "cực kì"
+    },
+    {
+      "english": "technology",
+      "type": "",
+      "vietnamese": "công nghệ"
+    },
+    {
+      "english": "totally",
+      "type": "",
+      "vietnamese": "một cách hoàn toàn"
+    },
+    {
+      "english": "outdated",
+      "type": "",
+      "vietnamese": "lỗi thời"
+    },
+    {
+      "english": "judge",
+      "type": "",
+      "vietnamese": "đánh giá"
+    },
+    {
+      "english": "attitude",
+      "type": "",
+      "vietnamese": "thái độ"
+    },
+    {
+      "english": "cruel",
+      "type": "",
+      "vietnamese": "tàn nhẫn"
+    },
+    {
+      "english": "ordinary",
+      "type": "",
+      "vietnamese": "tình huống"
+    },
+    {
+      "english": "especially",
+      "type": "",
+      "vietnamese": "đặc biệt là"
+    },
+    {
+      "english": "fear",
+      "type": "",
+      "vietnamese": "nỗi sợ"
+    },
+    {
+      "english": "disease",
+      "type": "",
+      "vietnamese": "bệnh tật"
+    },
+    {
+      "english": "suffer",
+      "type": "",
+      "vietnamese": "chịu đựng"
+    },
+    {
+      "english": "cancer",
+      "type": "",
+      "vietnamese": "ung thư"
+    },
+    {
+      "english": "seriously",
+      "type": "",
+      "vietnamese": "một cách nghiêm trọng"
+    },
+    {
+      "english": "accelerometer sensor",
+      "type": "(n)",
+      "vietnamese": "cảm biến gia tốc"
+    },
+    {
+      "english": "gyroscope sensor",
+      "type": "(n)",
+      "vietnamese": "cảm biến đo khí áp"
+    },
+    {
+      "english": "barometer sensor",
+      "type": "(n)",
+      "vietnamese": "cảm biến con quay hồi chuyển"
+    },
+    {
+      "english": "motion sensor",
+      "type": "",
+      "vietnamese": "cảm biến chuyển động"
+    },
+    {
+      "english": "activate",
+      "type": "(v)",
+      "vietnamese": "kích hoạt"
+    },
+    {
+      "english": "adjust",
+      "type": "(v)",
+      "vietnamese": "điều chỉnh"
+    },
+    {
+      "english": "attach",
+      "type": "(v)",
+      "vietnamese": "Gắn"
+    },
+    {
+      "english": "certify",
+      "type": "(v)",
+      "vietnamese": "chứng nhận"
+    },
+    {
+      "english": "command",
+      "type": "(v)",
+      "vietnamese": "mệnh lệnh"
+    },
+    {
+      "english": "compatible",
+      "type": "(adj)",
+      "vietnamese": "tương thích"
+    },
+    {
+      "english": "control panel",
+      "type": "(n)",
+      "vietnamese": "bảng điều khiển"
+    },
+    {
+      "english": "detect",
+      "type": "(v)",
+      "vietnamese": "phát hiện"
+    },
+    {
+      "english": "diameter",
+      "type": "(n)",
+      "vietnamese": "đường kính"
+    },
+    {
+      "english": "feature",
+      "type": "(n, v)",
+      "vietnamese": "nổi bật"
+    },
+    {
+      "english": "gadget",
+      "type": "(n)",
+      "vietnamese": "thiết bị cải tiến"
+    },
+    {
+      "english": "Global Positioning System (GPS)",
+      "type": "(n)",
+      "vietnamese": "hệ thống định vị toàn cầu"
+    },
+    {
+      "english": "infrared (IR)",
+      "type": "(n)",
+      "vietnamese": "tia hồng ngoại"
+    },
+    {
+      "english": "Ingress Protection(IP)",
+      "type": "(n)",
+      "vietnamese": "chuẩn chống bụi/nước của thiết bị điện tử"
+    },
+    {
+      "english": "intergrate",
+      "type": "(v)",
+      "vietnamese": "tích hợp"
+    },
+    {
+      "english": "monitor",
+      "type": "(n, v)",
+      "vietnamese": "giám sát"
+    },
+    {
+      "english": "Operating system (OS)",
+      "type": "(n)",
+      "vietnamese": "hệ điều hành"
+    },
+    {
+      "english": "Predecessor",
+      "type": "(n)",
+      "vietnamese": "sản phảm trước dùng dòng"
+    },
+    {
+      "english": "processor",
+      "type": "(n)",
+      "vietnamese": "bộ xử lí"
+    },
+    {
+      "english": "recognition",
+      "type": "(n)",
+      "vietnamese": "chức năng nhận diện"
+    },
+    {
+      "english": "resistence",
+      "type": "(n)",
+      "vietnamese": "tính chống chịu"
+    },
+    {
+      "english": "resolution",
+      "type": "(n)",
+      "vietnamese": "độ phân giải"
+    },
+    {
+      "english": "synchronization",
+      "type": "(v)",
+      "vietnamese": "sự đồng bộ hóa"
+    },
+    {
+      "english": "track",
+      "type": "(bb)",
+      "vietnamese": "theo dõi"
+    },
+    {
+      "english": "waterproof",
+      "type": "(adj)",
+      "vietnamese": "chống nước"
+    },
+    {
+      "english": "distraction",
+      "type": "",
+      "vietnamese": "phân vân"
+    },
+    {
+      "english": "conducted",
+      "type": "",
+      "vietnamese": "tiến hành"
+    },
+    {
+      "english": "experiment",
+      "type": "",
+      "vietnamese": "thử nghiệm"
+    },
+    {
+      "english": "influence",
+      "type": "",
+      "vietnamese": "ảnh hưởng"
+    },
+    {
+      "english": "ability",
+      "type": "",
+      "vietnamese": "khả năng"
+    },
+    {
+      "english": "particular",
+      "type": "",
+      "vietnamese": "cụ thể"
+    },
+    {
+      "english": "symptom",
+      "type": "",
+      "vietnamese": "triệu chứng"
+    },
+    {
+      "english": "root",
+      "type": "",
+      "vietnamese": "nguồn gốc"
+    },
+    {
+      "english": "stimulate",
+      "type": "",
+      "vietnamese": "kích thích"
+    },
+    {
+      "english": "reservation",
+      "type": "",
+      "vietnamese": "dự phòng"
+    },
+    {
+      "english": "curiously",
+      "type": "",
+      "vietnamese": "tò mò"
+    },
+    {
+      "english": "stereotype",
+      "type": "",
+      "vietnamese": "khuôn mẫu"
+    },
+    {
+      "english": "external conditions",
+      "type": "",
+      "vietnamese": "điều kiện bên ngoài"
+    },
+    {
+      "english": "blame",
+      "type": "",
+      "vietnamese": "khiển trách"
+    },
+    {
+      "english": "infant",
+      "type": "",
+      "vietnamese": "trẻ sơ sinh"
+    },
+    {
+      "english": "across",
+      "type": "",
+      "vietnamese": "băng qua, đi qua"
+    },
+    {
+      "english": "geek",
+      "type": "",
+      "vietnamese": "ham vui"
+    },
+    {
+      "english": "acquire",
+      "type": "",
+      "vietnamese": "có được, thu được"
+    },
+    {
+      "english": "mentor",
+      "type": "",
+      "vietnamese": "cố vấn"
+    },
+    {
+      "english": "celebrity",
+      "type": "",
+      "vietnamese": "người nổi tiếng"
+    },
+    {
+      "english": "mindset",
+      "type": "",
+      "vietnamese": "tư duy"
+    },
+    {
+      "english": "sustainable",
+      "type": "",
+      "vietnamese": "bền vững"
+    },
+    {
+      "english": "organic",
+      "type": "",
+      "vietnamese": "hữu cơ"
+    },
+    {
+      "english": "community",
+      "type": "",
+      "vietnamese": "cộng đồng"
+    },
+    {
+      "english": "rush",
+      "type": "",
+      "vietnamese": "vội vàng"
+    },
+    {
+      "english": "humble",
+      "type": "",
+      "vietnamese": "khiêm tốn"
+    },
+    {
+      "english": "investor",
+      "type": "",
+      "vietnamese": "chủ đầu tư"
+    },
+    {
+      "english": "elevator",
+      "type": "",
+      "vietnamese": "thang máy"
+    },
+    {
+      "english": "convince",
+      "type": "",
+      "vietnamese": "thuyết phục"
+    },
+    {
+      "english": "persevere",
+      "type": "",
+      "vietnamese": "kiên nhẫn"
+    },
+    {
+      "english": "ambition",
+      "type": "",
+      "vietnamese": "tham vọng"
+    },
+    {
+      "english": "toughen",
+      "type": "",
+      "vietnamese": "cứng rắn"
+    },
+    {
+      "english": "fascinate",
+      "type": "",
+      "vietnamese": "mê hoặc"
+    },
+    {
+      "english": "consider",
+      "type": "",
+      "vietnamese": "xem xét"
+    },
+    {
+      "english": "obvious",
+      "type": "",
+      "vietnamese": "hiển nhiên"
+    },
+    {
+      "english": "adult",
+      "type": "",
+      "vietnamese": "người lớn"
+    },
+    {
+      "english": "behavior",
+      "type": "",
+      "vietnamese": "hành vi"
+    },
+    {
+      "english": "revolution",
+      "type": "",
+      "vietnamese": "cuộc cách mạng"
+    },
+    {
+      "english": "direction",
+      "type": "",
+      "vietnamese": "phương hướng"
+    },
+    {
+      "english": "humiliate",
+      "type": "",
+      "vietnamese": "làm nhục"
+    },
+    {
+      "english": "thieves",
+      "type": "",
+      "vietnamese": "kẻ trộm"
+    },
+    {
+      "english": "infamous",
+      "type": "",
+      "vietnamese": "khét tiếng"
+    },
+    {
+      "english": "brutal",
+      "type": "",
+      "vietnamese": "tàn bạo"
+    },
+    {
+      "english": "stubborn",
+      "type": "",
+      "vietnamese": "bướng bỉnh"
+    },
+    {
+      "english": "bone",
+      "type": "",
+      "vietnamese": "khúc xương"
+    },
+    {
+      "english": "starve",
+      "type": "",
+      "vietnamese": "bỏ đói"
+    },
+    {
+      "english": "slaves",
+      "type": "",
+      "vietnamese": "nô lệ"
+    },
+    {
+      "english": "minority",
+      "type": "",
+      "vietnamese": "thiểu số"
+    },
+    {
+      "english": "fate",
+      "type": "",
+      "vietnamese": "số phận"
+    },
+    {
+      "english": "universe",
+      "type": "",
+      "vietnamese": "vũ trụ"
+    },
+    {
+      "english": "seperated",
+      "type": "",
+      "vietnamese": "ly thân"
+    },
+    {
+      "english": "immortal",
+      "type": "",
+      "vietnamese": "bất diệt"
+    },
+    {
+      "english": "abandon",
+      "type": "",
+      "vietnamese": "bỏ rơi"
+    },
+    {
+      "english": "peak",
+      "type": "",
+      "vietnamese": "đỉnh cao"
+    },
+    {
+      "english": "proper",
+      "type": "",
+      "vietnamese": "thích hợp"
+    },
+    {
+      "english": "treasure",
+      "type": "",
+      "vietnamese": "kho báu"
+    },
+    {
+      "english": "ordinary",
+      "type": "",
+      "vietnamese": "tầm thường"
+    },
+    {
+      "english": "complicate",
+      "type": "",
+      "vietnamese": "phức tạp"
+    },
+    {
+      "english": "supervision",
+      "type": "",
+      "vietnamese": "giám sát"
+    },
+    {
+      "english": "related",
+      "type": "",
+      "vietnamese": "liên quan"
+    },
+    {
+      "english": "restriction",
+      "type": "",
+      "vietnamese": "hạn chế"
+    },
+    {
+      "english": "accociated",
+      "type": "",
+      "vietnamese": "liên kết"
+    },
+    {
+      "english": "assistant",
+      "type": "",
+      "vietnamese": "trợ lý"
+    },
+    {
+      "english": "acoholism",
+      "type": "",
+      "vietnamese": "chứng nghiện rượu"
+    },
+    {
+      "english": "risk",
+      "type": "",
+      "vietnamese": "rủi ro"
+    },
+    {
+      "english": "tendency",
+      "type": "",
+      "vietnamese": "xu hướng"
+    },
+    {
+      "english": "apolicy",
+      "type": "",
+      "vietnamese": "chính sách"
+    },
+    {
+      "english": "divorce",
+      "type": "",
+      "vietnamese": "ly dị"
+    },
+    {
+      "english": "intention",
+      "type": "",
+      "vietnamese": "mục đích"
+    },
+    {
+      "english": "reflective",
+      "type": "",
+      "vietnamese": "sự nghi ngờ"
+    },
+    {
+      "english": "genuine",
+      "type": "",
+      "vietnamese": "sự xác thực"
+    },
+    {
+      "english": "precaution",
+      "type": "",
+      "vietnamese": "sự phòng ngừa"
+    },
+    {
+      "english": "intimate",
+      "type": "",
+      "vietnamese": "sự thân mật"
+    },
+    {
+      "english": "pandamic",
+      "type": "",
+      "vietnamese": "dịch bệnh"
+    },
+    {
+      "english": "downside",
+      "type": "",
+      "vietnamese": "nhược điểm"
+    },
+    {
+      "english": "audience",
+      "type": "",
+      "vietnamese": "khán giả"
+    },
+    {
+      "english": "upset",
+      "type": "",
+      "vietnamese": "buồn bã"
+    }
+  ]
+  
+}
